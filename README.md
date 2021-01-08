@@ -7,8 +7,13 @@ Quant Trading Strategies Using Data from JoinQuant
 
 ![image](https://github.com/Seaaann/JoinQuant-Stock-Trading/blob/master/pic/1.png)
 
+- 西藏发展 分钟线
+![image](https://github.com/Seaaann/JoinQuant-Stock-Trading/blob/master/pic/2.png)
+
 
 - 基本思路：追涨杀跌
 - PnL：
-![image](https://github.com/Seaaann/JoinQuant-Stock-Trading/blob/master/pic/2.png)
-![image](https://github.com/Seaaann/JoinQuant-Stock-Trading/blob/master/pic/3.png)
+![image](https://github.com/Seaaann/JoinQuant-Stock-Trading/blob/master/pic/古井贡酒.png)
+![image](https://github.com/Seaaann/JoinQuant-Stock-Trading/blob/master/pic/泸州老窖.png)
+![image](https://github.com/Seaaann/JoinQuant-Stock-Trading/blob/master/pic/酒鬼酒.png)
+![image](https://github.com/Seaaann/JoinQuant-Stock-Trading/blob/master/pic/西藏发展.png)
